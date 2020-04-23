@@ -8,6 +8,10 @@
     "test:unit": "vue-cli-service test:unit",
     "lint": "vue-cli-service lint"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://CW_CHEN01@bitbucket.org/ibuzztw/louie_cicd.git"
+  },
   "dependencies": {
     "core-js": "^3.6.4",
     "vue": "^2.6.11"
