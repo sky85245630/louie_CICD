@@ -1,4 +1,3 @@
-[![Build Status](http://drone.i-buzz-system.com/api/badges/ibuzztw/louie_cicd/status.svg)](http://drone.i-buzz-system.com/ibuzztw/louie_cicd)
 
 kind: pipeline
 type: docker
